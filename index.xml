@@ -10,37 +10,6 @@
     <atom:link href="http://opendata-stuttgart.github.io/luftdaten-info.stage/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Impressum</title>
-      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/impressum</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/impressum</guid>
-      <description>
-
-&lt;h2 id=&#34;impressum:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Impressum&lt;/h2&gt;
-
-&lt;p&gt;Gem. &amp;sect; 5 Telemediengesetz (TMG)&lt;/p&gt;
-
-&lt;p&gt;B&amp;uuml;ro f&amp;uuml;r Gestalten/de&lt;br&gt;
-Nat&amp;uuml;rlich werben&lt;br&gt;
-Kleine K&amp;ouml;nigstr. 1&lt;br&gt;
-D-70178 Stuttgart&lt;br&gt;
-Germany&lt;/p&gt;
-
-&lt;p&gt;Umsatzsteuer-ID-Nr. gem. &amp;sect;27 a Umsatzsteuergesetz: DE252468935B&lt;/p&gt;
-
-&lt;p&gt;T +49 (0) 711 &amp;shy;72 23 71 - 72&lt;br&gt;
-F +49 (0) 711 &amp;shy;58 53 99 - 38&lt;br&gt;
-&lt;a href=&#34;mailto:info@buero-fuer-gestalten.de&#34;&gt;info@buero-fuer-gestalten.de&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Verantwortlich f&amp;uuml;r den Inhalt nach &amp;sect; 55 Abs. 2 RStV:&lt;br&gt;
-Dipl. Kommunikationsdesigner (FH) Jan A. Lutz&lt;br&gt;
-Anschrift wie oben&lt;br&gt;
-&lt;a href=&#34;mailto:jan.lutz@buero-fuer-gestalten.de&#34;&gt;jan.lutz@buero-fuer-gestalten.de&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Feinstaub</title>
       <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/dokumentation/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
@@ -123,6 +92,37 @@ Newsletter eintragen.&lt;/p&gt;
     &lt;button class=&#34;formbutton&#34; type=&#34;submit&#34;&gt;&lt;span class=&#34;fa fa-envelope-o&#34;&gt;&lt;/span&gt;&lt;/button&gt;
   &lt;/form&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/impressum</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/impressum</guid>
+      <description>
+
+&lt;h2 id=&#34;impressum:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Impressum&lt;/h2&gt;
+
+&lt;p&gt;Gem. &amp;sect; 5 Telemediengesetz (TMG)&lt;/p&gt;
+
+&lt;p&gt;B&amp;uuml;ro f&amp;uuml;r Gestalten/de&lt;br&gt;
+Nat&amp;uuml;rlich werben&lt;br&gt;
+Kleine K&amp;ouml;nigstr. 1&lt;br&gt;
+D-70178 Stuttgart&lt;br&gt;
+Germany&lt;/p&gt;
+
+&lt;p&gt;Umsatzsteuer-ID-Nr. gem. &amp;sect;27 a Umsatzsteuergesetz: DE252468935B&lt;/p&gt;
+
+&lt;p&gt;T +49 (0) 711 &amp;shy;72 23 71 - 72&lt;br&gt;
+F +49 (0) 711 &amp;shy;58 53 99 - 38&lt;br&gt;
+&lt;a href=&#34;mailto:info@buero-fuer-gestalten.de&#34;&gt;info@buero-fuer-gestalten.de&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Verantwortlich f&amp;uuml;r den Inhalt nach &amp;sect; 55 Abs. 2 RStV:&lt;br&gt;
+Dipl. Kommunikationsdesigner (FH) Jan A. Lutz&lt;br&gt;
+Anschrift wie oben&lt;br&gt;
+&lt;a href=&#34;mailto:jan.lutz@buero-fuer-gestalten.de&#34;&gt;jan.lutz@buero-fuer-gestalten.de&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
