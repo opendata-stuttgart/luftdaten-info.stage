@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://luftdaten.info:1313/</loc>
+    <loc>http://opendata-stuttgart.github.io/luftdaten-info.stage/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://luftdaten.info:1313/dokumentation/</loc>
+    <loc>http://opendata-stuttgart.github.io/luftdaten-info.stage/impressum</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://luftdaten.info:1313/impressum</loc>
+    <loc>http://opendata-stuttgart.github.io/luftdaten-info.stage/dokumentation/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://luftdaten.info:1313/mitmachen/</loc>
+    <loc>http://opendata-stuttgart.github.io/luftdaten-info.stage/mitmachen/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://luftdaten.info:1313/datenschutzerklaerung</loc>
+    <loc>http://opendata-stuttgart.github.io/luftdaten-info.stage/datenschutzerklaerung</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://luftdaten.info:1313/about/</loc>
+    <loc>http://opendata-stuttgart.github.io/luftdaten-info.stage/about/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://luftdaten.info:1313/</loc>
+    <loc>http://opendata-stuttgart.github.io/luftdaten-info.stage/</loc>
   </url>
   
 </urlset>

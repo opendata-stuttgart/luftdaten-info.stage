@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Officials on Luftdaten.info</title>
-    <link>http://luftdaten.info:1313/official/</link>
+    <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/official/</link>
     <description>Recent content in Officials on Luftdaten.info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://luftdaten.info:1313/official/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://opendata-stuttgart.github.io/luftdaten-info.stage/official/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Impressum</title>
-      <link>http://luftdaten.info:1313/impressum</link>
+      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/impressum</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://luftdaten.info:1313/impressum</guid>
+      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/impressum</guid>
       <description>
 
 &lt;h2 id=&#34;impressum:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Impressum&lt;/h2&gt;
@@ -42,10 +42,10 @@ Anschrift wie oben&lt;br&gt;
     
     <item>
       <title>Privacy Policy</title>
-      <link>http://luftdaten.info:1313/datenschutzerklaerung</link>
+      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/datenschutzerklaerung</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://luftdaten.info:1313/datenschutzerklaerung</guid>
+      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/datenschutzerklaerung</guid>
       <description>
 
 &lt;p&gt;Quellenangaben f&amp;uuml;r die verwendeten Bilder und Grafiken:&lt;br&gt;

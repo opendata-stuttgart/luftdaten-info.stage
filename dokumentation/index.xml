@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dokumentations on Luftdaten.info</title>
-    <link>http://luftdaten.info:1313/dokumentation/</link>
+    <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/dokumentation/</link>
     <description>Recent content in Dokumentations on Luftdaten.info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://luftdaten.info:1313/dokumentation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://opendata-stuttgart.github.io/luftdaten-info.stage/dokumentation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Feinstaub</title>
-      <link>http://luftdaten.info:1313/dokumentation/</link>
+      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/dokumentation/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://luftdaten.info:1313/dokumentation/</guid>
+      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/dokumentation/</guid>
       <description>
 
 &lt;h1 id=&#34;erklärung:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Erklärung&lt;/h1&gt;

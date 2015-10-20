@@ -2,19 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luftdaten.info</title>
-    <link>http://luftdaten.info:1313/</link>
+    <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/</link>
     <description>Recent content on Luftdaten.info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://luftdaten.info:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://opendata-stuttgart.github.io/luftdaten-info.stage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Impressum</title>
+      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/impressum</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/impressum</guid>
+      <description>
+
+&lt;h2 id=&#34;impressum:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Impressum&lt;/h2&gt;
+
+&lt;p&gt;Gem. &amp;sect; 5 Telemediengesetz (TMG)&lt;/p&gt;
+
+&lt;p&gt;B&amp;uuml;ro f&amp;uuml;r Gestalten/de&lt;br&gt;
+Nat&amp;uuml;rlich werben&lt;br&gt;
+Kleine K&amp;ouml;nigstr. 1&lt;br&gt;
+D-70178 Stuttgart&lt;br&gt;
+Germany&lt;/p&gt;
+
+&lt;p&gt;Umsatzsteuer-ID-Nr. gem. &amp;sect;27 a Umsatzsteuergesetz: DE252468935B&lt;/p&gt;
+
+&lt;p&gt;T +49 (0) 711 &amp;shy;72 23 71 - 72&lt;br&gt;
+F +49 (0) 711 &amp;shy;58 53 99 - 38&lt;br&gt;
+&lt;a href=&#34;mailto:info@buero-fuer-gestalten.de&#34;&gt;info@buero-fuer-gestalten.de&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Verantwortlich f&amp;uuml;r den Inhalt nach &amp;sect; 55 Abs. 2 RStV:&lt;br&gt;
+Dipl. Kommunikationsdesigner (FH) Jan A. Lutz&lt;br&gt;
+Anschrift wie oben&lt;br&gt;
+&lt;a href=&#34;mailto:jan.lutz@buero-fuer-gestalten.de&#34;&gt;jan.lutz@buero-fuer-gestalten.de&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Feinstaub</title>
-      <link>http://luftdaten.info:1313/dokumentation/</link>
+      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/dokumentation/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://luftdaten.info:1313/dokumentation/</guid>
+      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/dokumentation/</guid>
       <description>
 
 &lt;h1 id=&#34;erklärung:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Erklärung&lt;/h1&gt;
@@ -51,42 +82,11 @@
     </item>
     
     <item>
-      <title>Impressum</title>
-      <link>http://luftdaten.info:1313/impressum</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://luftdaten.info:1313/impressum</guid>
-      <description>
-
-&lt;h2 id=&#34;impressum:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Impressum&lt;/h2&gt;
-
-&lt;p&gt;Gem. &amp;sect; 5 Telemediengesetz (TMG)&lt;/p&gt;
-
-&lt;p&gt;B&amp;uuml;ro f&amp;uuml;r Gestalten/de&lt;br&gt;
-Nat&amp;uuml;rlich werben&lt;br&gt;
-Kleine K&amp;ouml;nigstr. 1&lt;br&gt;
-D-70178 Stuttgart&lt;br&gt;
-Germany&lt;/p&gt;
-
-&lt;p&gt;Umsatzsteuer-ID-Nr. gem. &amp;sect;27 a Umsatzsteuergesetz: DE252468935B&lt;/p&gt;
-
-&lt;p&gt;T +49 (0) 711 &amp;shy;72 23 71 - 72&lt;br&gt;
-F +49 (0) 711 &amp;shy;58 53 99 - 38&lt;br&gt;
-&lt;a href=&#34;mailto:info@buero-fuer-gestalten.de&#34;&gt;info@buero-fuer-gestalten.de&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Verantwortlich f&amp;uuml;r den Inhalt nach &amp;sect; 55 Abs. 2 RStV:&lt;br&gt;
-Dipl. Kommunikationsdesigner (FH) Jan A. Lutz&lt;br&gt;
-Anschrift wie oben&lt;br&gt;
-&lt;a href=&#34;mailto:jan.lutz@buero-fuer-gestalten.de&#34;&gt;jan.lutz@buero-fuer-gestalten.de&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Mitmachen</title>
-      <link>http://luftdaten.info:1313/mitmachen/</link>
+      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/mitmachen/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://luftdaten.info:1313/mitmachen/</guid>
+      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/mitmachen/</guid>
       <description>
 
 &lt;h1 id=&#34;termine:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Termine&lt;/h1&gt;
@@ -128,10 +128,10 @@ Newsletter eintragen.&lt;/p&gt;
     
     <item>
       <title>Privacy Policy</title>
-      <link>http://luftdaten.info:1313/datenschutzerklaerung</link>
+      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/datenschutzerklaerung</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://luftdaten.info:1313/datenschutzerklaerung</guid>
+      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/datenschutzerklaerung</guid>
       <description>
 
 &lt;p&gt;Quellenangaben f&amp;uuml;r die verwendeten Bilder und Grafiken:&lt;br&gt;
@@ -195,20 +195,20 @@ Alle Quellenangaben finden Sie bei den jeweiligen Artikeln bzw. Bildern.&lt;/p&g
     
     <item>
       <title>spf13-vim 3.0 release and new website</title>
-      <link>http://luftdaten.info:1313/about/</link>
+      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/about/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://luftdaten.info:1313/about/</guid>
+      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/about/</guid>
       <description>&lt;p&gt;Content of the file goes Here&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://luftdaten.info:1313/</link>
+      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://luftdaten.info:1313/</guid>
+      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/</guid>
       <description>&lt;html&gt;
 &lt;head&gt;
 &lt;/head&gt;
