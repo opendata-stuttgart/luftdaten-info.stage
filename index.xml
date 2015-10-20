@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luftdaten.info</title>
+    <link>http://luftdaten.info:1313/</link>
+    <description>Recent content on Luftdaten.info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://luftdaten.info:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feinstaub</title>
+      <link>http://luftdaten.info:1313/dokumentation/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://luftdaten.info:1313/dokumentation/</guid>
+      <description>
+
+&lt;h1 id=&#34;erklärung:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Erklärung&lt;/h1&gt;
+
+&lt;h2 id=&#34;was-ist-feinstaub:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Was ist Feinstaub?&lt;/h2&gt;
+
+&lt;p&gt;Feinstaub, auf englisch &amp;ldquo;Particulate Matter&amp;rdquo; (PM) bezeichnet sehr kleine feste Teilchen in der Luft, die eine gewisse Zeit in der Atmosphäre verweilen. Die Staubpartikel werden in verschiedene Klassen eingeteilt. Feinstaub (PM10) bezeichnet Staubpartikel mit einem  Durchmesser von weniger als 10 µm (Mikrometer). Eine Teilmenge der PM10 sind die feineren Teilchen, mit einem Durchmesser, der kleiner ist als 2,5 µm (PM2.5). Dann gibt es noch die Fraktion der ultrafeinen Partikel von weniger als 0,1 Mikrometer (&amp;lt; 0,1µm).&lt;br&gt;
+&lt;a href=&#34;http://www.umweltbundesamt.de/service/uba-fragen/was-ist-feinstaub&#34; title=&#34;Was ist Feinstaub&#34;&gt;Quelle: Umweltbundesamt&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;woher-kommt-feinstaub:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Woher kommt Feinstaub?&lt;/h2&gt;
+
+&lt;p&gt;Der größte Teil wird durch menschliches Handeln erzeugt, z.B. aus Verbrennungsvorgängen (Kfz-Verkehr, Gebäudeheizung, Kamin) und Produktionsprozessen. In kleineren Mengen durch die Landwirtschaft, Schuttgüter, Feuerwerk &amp;amp; Zigaretten. Feinstaub wird nicht nur direkt emittiert (primäre Partikel) sondern bildet sich auch u.a. aus Schwefeldioxid, Stickstoffoxid und Ammoniak in der Atmosphäre (sekundäre Partikel).&lt;br&gt;
+&lt;a href=&#34;https://de.wikipedia.org/wiki/Feinstaub&#34;&gt;Quelle: Wikipedia&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;warum-ist-es-gefährlich:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Warum ist es gefährlich?&lt;/h2&gt;
+
+&lt;p&gt;Das Einatmen von Feinstaub sich negativ auf die menschliche Gesundheit auswirkt, ist &lt;a href=&#34;http://www.mlul.brandenburg.de/media_fast/4055/feinstaub.pdf&#34;&gt;erwiesen&lt;/a&gt;. Je kleiner die Partikel sind, desto tiefer gelangen sie in die Atemwege. Sehr feine Partikel können über die Lungenbläschen in die Blutbahn gelangen. Da Atmung und Blutkreislauf sehr eng miteinander verbunden sind können sich die Partikel so im Körper verteilen. Das kann zu folgenden Krankheiten führen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(chronischer) Husten&lt;/li&gt;
+&lt;li&gt;Schädigung des Atemtrakts&lt;/li&gt;
+&lt;li&gt;Bronchitis&lt;/li&gt;
+&lt;li&gt;Herz-Kreislauf-Probleme (Kardiovaskuläre Effekte)&lt;/li&gt;
+&lt;li&gt;Beeinträchtigung der Lungenfunktion&lt;/li&gt;
+&lt;li&gt;Lungenkrebs&lt;/li&gt;
+&lt;li&gt;Verkürzung der Lebenserwartung&lt;br&gt;
+&lt;a href=&#34;http://www.handelsblatt.com/technik/das-technologie-update/healthcare/infarkt-schlaganfall-atemnot-wie-feinstaub-die-gesundheit-schaedigt/9542368.html&#34;&gt;Quelle: Handelblatt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;unsere-mission:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Unsere Mission&lt;/h2&gt;
+
+&lt;p&gt;Wir wollen in Stuttgart in der Fläche messen. Am Ende sollen es 300 Messknoten sein. Damit können wir sowohl die Hintergrundbelastung als auch die Peaks sichtbar machen. Zusammen mit der &lt;a href=&#34;http://www.lubw.baden-wuerttemberg.de&#34;&gt;LUBW&lt;/a&gt; in Karlsruhe wollen wir einen Standard entwickeln, der den offiziellen Messstationen möglichst nahe kommt. Dadurch wollen wir einen fundierten empirischen Datensatz erhalten. Dabei geht es in erster Linie &lt;strong&gt;nicht&lt;/strong&gt; um 100%-ige Genauigkeit, sondern vielmehr um ein Bild der Gesamtsituation. Durch die Zusammenarbeit mit der LUBW wird aber eine möglichst große Annäherung an reale Messergebnisse angestrebt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>http://luftdaten.info:1313/impressum</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://luftdaten.info:1313/impressum</guid>
+      <description>
+
+&lt;h2 id=&#34;impressum:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Impressum&lt;/h2&gt;
+
+&lt;p&gt;Gem. &amp;sect; 5 Telemediengesetz (TMG)&lt;/p&gt;
+
+&lt;p&gt;B&amp;uuml;ro f&amp;uuml;r Gestalten/de&lt;br&gt;
+Nat&amp;uuml;rlich werben&lt;br&gt;
+Kleine K&amp;ouml;nigstr. 1&lt;br&gt;
+D-70178 Stuttgart&lt;br&gt;
+Germany&lt;/p&gt;
+
+&lt;p&gt;Umsatzsteuer-ID-Nr. gem. &amp;sect;27 a Umsatzsteuergesetz: DE252468935B&lt;/p&gt;
+
+&lt;p&gt;T +49 (0) 711 &amp;shy;72 23 71 - 72&lt;br&gt;
+F +49 (0) 711 &amp;shy;58 53 99 - 38&lt;br&gt;
+&lt;a href=&#34;mailto:info@buero-fuer-gestalten.de&#34;&gt;info@buero-fuer-gestalten.de&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Verantwortlich f&amp;uuml;r den Inhalt nach &amp;sect; 55 Abs. 2 RStV:&lt;br&gt;
+Dipl. Kommunikationsdesigner (FH) Jan A. Lutz&lt;br&gt;
+Anschrift wie oben&lt;br&gt;
+&lt;a href=&#34;mailto:jan.lutz@buero-fuer-gestalten.de&#34;&gt;jan.lutz@buero-fuer-gestalten.de&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mitmachen</title>
+      <link>http://luftdaten.info:1313/mitmachen/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://luftdaten.info:1313/mitmachen/</guid>
+      <description>
+
+&lt;h1 id=&#34;termine:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Termine&lt;/h1&gt;
+
+&lt;p&gt;Wir treffen uns jeden zweiten Dienstag um 19:00 Uhr im Monat im shackspace,
+dem Stuttgarter Hackerspace, um an unserer Hardware zu basteln und diese
+weiterzuentwickeln.  Außerdem treffen wir uns jeden vierten Dienstag im Monat in
+der Stadtbibliothek am Mailänder Platz für die ganzen organisatorischen Aufgaben.&lt;/p&gt;
+
+&lt;p&gt;Interessierte sind herzlich eingeladen an unseren Treffen teilzunehmen und beim
+Fortschritt des Projekts mitzuhelfen.  Die aktuellen Termine gibt es bei
+&lt;a href=&#34;http://www.meetup.com/de/OK-Lab-Stuttgart-Meet-Up/&#34;&gt;meetup.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;code-for-stuttgart:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Code for Stuttgart&lt;/h1&gt;
+
+&lt;p&gt;Das Projekt „luftdaten.info“ wird im Rahmen des Open Knowledge Labs Stuttgart
+(OK Lab Stuttgart) entwickelt.  Das OK Lab Stuttgart ist Teil des Projekts
+Code for Germany und auf dessen Website mit einer
+&lt;a href=&#34;http://codefor.de/stuttgart/&#34;&gt;Unterseite&lt;/a&gt; vertreten.&lt;/p&gt;
+
+&lt;h1 id=&#34;newsletter:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Newsletter&lt;/h1&gt;
+
+&lt;p&gt;Wer sich lieber passiv informieren möchte, beipielsweise um bei Vollendung des
+Projekts die Patenschaft für einen Sensor zu übernehmen, kann sich in unseren
+Newsletter eintragen.&lt;/p&gt;
+
+&lt;h2 id=&#34;todo:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;TODO&lt;/h2&gt;
+
+&lt;div id=&#34;signupform&#34; class=&#34;sb-search clearfix&#34;&gt;
+  &lt;form action=&#34;http://codefor.us10.list-manage.com/subscribe/post?u=8c3a5431cac85218f1585f123&amp;amp;id=11f8850519&#34; method=&#34;post&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate clearfix&#34; target=&#34;_blank&#34; novalidate&gt;
+    &lt;input class=&#34;sb-search-input&#34; placeholder=&#34;Deine E-Mail Adresse&#34; type=&#34;email&#34; name=&#34;EMAIL&#34; value=&#34;&#34;&gt;
+    &lt;input type=&#34;text&#34; name=&#34;b_8c3a5431cac85218f1585f123_11f8850519&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;
+    &lt;input class=&#34;sb-search-submit&#34; value=&#34;&#34; type=&#34;submit&#34;&gt;
+    &lt;button class=&#34;formbutton&#34; type=&#34;submit&#34;&gt;&lt;span class=&#34;fa fa-envelope-o&#34;&gt;&lt;/span&gt;&lt;/button&gt;
+  &lt;/form&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://luftdaten.info:1313/datenschutzerklaerung</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://luftdaten.info:1313/datenschutzerklaerung</guid>
+      <description>
+
+&lt;p&gt;Quellenangaben f&amp;uuml;r die verwendeten Bilder und Grafiken:&lt;br&gt;
+Alle Quellenangaben finden Sie bei den jeweiligen Artikeln bzw. Bildern.&lt;/p&gt;
+
+&lt;h2 id=&#34;haftungsausschluss:7e38e8dcb6d4e31a36d8cb78795190da&#34;&gt;Haftungsausschluss&lt;/h2&gt;
+
+&lt;h3 id=&#34;haftung-f-uuml-r-inhalte:7e38e8dcb6d4e31a36d8cb78795190da&#34;&gt;Haftung f&amp;uuml;r Inhalte&lt;/h3&gt;
+
+&lt;p&gt;Die Inhalte unserer Seiten wurden mit gr&amp;ouml;&amp;szlig;ter Sorgfalt erstellt. F&amp;uuml;r die Richtigkeit, Vollst&amp;auml;ndigkeit und Aktualit&amp;auml;t der Inhalte k&amp;ouml;nnen wir jedoch keine Gew&amp;auml;hr &amp;uuml;bernehmen. Als Diensteanbieter sind wir gem&amp;auml;&amp;szlig; &amp;sect; 7 Abs.1 TMG f&amp;uuml;r eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach &amp;sect;&amp;sect; 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, &amp;uuml;bermittelte oder gespeicherte fremde Informationen zu &amp;uuml;berwachen oder nach Umst&amp;auml;nden zu forschen, die auf eine rechtswidrige T&amp;auml;tigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unber&amp;uuml;hrt. Eine diesbez&amp;uuml;gliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung m&amp;ouml;glich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;/p&gt;
+
+&lt;h3 id=&#34;haftung-f-uuml-r-links:7e38e8dcb6d4e31a36d8cb78795190da&#34;&gt;Haftung f&amp;uuml;r Links&lt;/h3&gt;
+
+&lt;p&gt;Unser Angebot enth&amp;auml;lt Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb k&amp;ouml;nnen wir f&amp;uuml;r diese fremden Inhalte auch keine Gew&amp;auml;hr &amp;uuml;bernehmen. F&amp;uuml;r die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf m&amp;ouml;gliche Rechtsverst&amp;ouml;&amp;szlig;e &amp;uuml;berpr&amp;uuml;ft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;/p&gt;
+
+&lt;h2 id=&#34;urheberrecht:7e38e8dcb6d4e31a36d8cb78795190da&#34;&gt;Urheberrecht&lt;/h2&gt;
+
+&lt;p&gt;Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem Lizenzvertrag der Creative Commons &amp;bdquo;&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.de&#34;&gt;Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)&lt;/a&gt;&amp;ldquo;.&lt;/p&gt;
+
+&lt;p&gt;Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.&lt;/p&gt;
+
+&lt;h2 id=&#34;datenschutz:7e38e8dcb6d4e31a36d8cb78795190da&#34;&gt;Datenschutz&lt;/h2&gt;
+
+&lt;p&gt;Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten m&amp;ouml;glich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit m&amp;ouml;glich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdr&amp;uuml;ckliche Zustimmung nicht an Dritte weitergegeben.&lt;/p&gt;
+
+&lt;p&gt;Wir weisen darauf hin, dass die Daten&amp;uuml;bertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitsl&amp;uuml;cken aufweisen kann. Ein l&amp;uuml;ckenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht m&amp;ouml;glich.&lt;/p&gt;
+
+&lt;p&gt;Der Nutzung von im Rahmen der Impressumspflicht ver&amp;ouml;ffentlichten Kontaktdaten durch Dritte zur &amp;Uuml;bersendung von nicht ausdr&amp;uuml;cklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdr&amp;uuml;cklich widersprochen. Die Betreiber der Seiten behalten sich ausdr&amp;uuml;cklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;/p&gt;
+
+&lt;h3 id=&#34;datenschutzerkl-auml-rung-f-uuml-r-die-nutzung-von-facebook-plugins-like-button:7e38e8dcb6d4e31a36d8cb78795190da&#34;&gt;Datenschutzerkl&amp;auml;rung f&amp;uuml;r die Nutzung von Facebook-Plugins (Like-Button)&lt;/h3&gt;
+
+&lt;p&gt;Auf unseren Seiten sind Plugins des sozialen Netzwerks Facebook, 1601 South California Avenue, Palo Alto, CA 94304, USA integriert. Die Facebook-Plugins erkennen Sie an dem Facebook-Logo oder dem &amp;ldquo;Like-Button&amp;rdquo; (&amp;ldquo;Gef&amp;auml;llt mir&amp;rdquo;) auf unserer Seite. Eine &amp;Uuml;bersicht &amp;uuml;ber die Facebook-Plugins finden Sie hier: &lt;a href=&#34;http://developers.facebook.com/docs/plugins/&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://developers.facebook.com/docs/plugins/&#34;&gt;http://developers.facebook.com/docs/plugins/&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Wenn Sie unsere Seiten besuchen, wird &amp;uuml;ber das Plugin eine direkte Verbindung zwischen Ihrem Browser und dem Facebook-Server hergestellt. Facebook erh&amp;auml;lt dadurch die Information, dass Sie mit Ihrer IP-Adresse unsere Seite besucht haben. Wenn Sie den Facebook &amp;ldquo;Like-Button&amp;rdquo; anklicken w&amp;auml;hrend Sie in Ihrem Facebook-Account eingeloggt sind, k&amp;ouml;nnen Sie die Inhalte unserer Seiten auf Ihrem Facebook-Profil verlinken. Dadurch kann Facebook den Besuch unserer Seiten Ihrem Benutzerkonto zuordnen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der &amp;uuml;bermittelten Daten sowie deren Nutzung durch Facebook erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerkl&amp;auml;rung von facebook unter &lt;a href=&#34;http://de-de.facebook.com/policy.php&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://de-de.facebook.com/policy.php&#34;&gt;http://de-de.facebook.com/policy.php&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Wenn Sie nicht w&amp;uuml;nschen, dass Facebook den Besuch unserer Seiten Ihrem Facebook-Nutzerkonto zuordnen kann, loggen Sie sich bitte aus Ihrem Facebook-Benutzerkonto aus.&lt;/p&gt;
+
+&lt;h3 id=&#34;datenschutzerkl-auml-rung-f-uuml-r-die-nutzung-von-google-analytics:7e38e8dcb6d4e31a36d8cb78795190da&#34;&gt;Datenschutzerkl&amp;auml;rung f&amp;uuml;r die Nutzung von Google Analytics&lt;/h3&gt;
+
+&lt;p&gt;Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (&amp;ldquo;Google&amp;rdquo;). Google Analytics verwendet sog. &amp;ldquo;Cookies&amp;rdquo;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie erm&amp;ouml;glichen. Die durch den Cookie erzeugten Informationen &amp;uuml;ber Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA &amp;uuml;bertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europ&amp;auml;ischen Union oder in anderen Vertragsstaaten des Abkommens &amp;uuml;ber den Europ&amp;auml;ischen Wirtschaftsraum zuvor gek&amp;uuml;rzt.&lt;/p&gt;
+
+&lt;p&gt;Nur in Ausnahmef&amp;auml;llen wird die volle IP-Adresse an einen Server von Google in den USA &amp;uuml;bertragen und dort gek&amp;uuml;rzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports &amp;uuml;ber die Websiteaktivit&amp;auml;ten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegen&amp;uuml;ber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser &amp;uuml;bermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengef&amp;uuml;hrt.&lt;/p&gt;
+
+&lt;p&gt;Sie k&amp;ouml;nnen die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht s&amp;auml;mtliche Funktionen dieser Website vollumf&amp;auml;nglich werden nutzen k&amp;ouml;nnen. Sie k&amp;ouml;nnen dar&amp;uuml;ber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verf&amp;uuml;gbare Browser-Plugin herunterladen und installieren: &lt;a href=&#34;http://tools.google.com/dlpage/gaoptout?hl=de&#34;&gt;http://tools.google.com/dlpage/gaoptout?hl=de&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;datenschutzerkl-auml-rung-f-uuml-r-die-nutzung-von-twitter:7e38e8dcb6d4e31a36d8cb78795190da&#34;&gt;Datenschutzerkl&amp;auml;rung f&amp;uuml;r die Nutzung von Twitter&lt;/h3&gt;
+
+&lt;p&gt;Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen werden angeboten durch die Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. Durch das Benutzen von Twitter und der Funktion &amp;ldquo;Re-Tweet&amp;rdquo; werden die von Ihnen besuchten Webseiten mit Ihrem Twitter-Account verkn&amp;uuml;pft und anderen Nutzern bekannt gegeben. Dabei werden auch Daten an Twitter &amp;uuml;bertragen.&lt;/p&gt;
+
+&lt;p&gt;Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der &amp;uuml;bermittelten Daten sowie deren Nutzung durch Twitter erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerkl&amp;auml;rung von Twitter unter &lt;a href=&#34;http://twitter.com/privacy&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://twitter.com/privacy&#34;&gt;http://twitter.com/privacy&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ihre Datenschutzeinstellungen bei Twitter k&amp;ouml;nnen Sie in den Konto-Einstellungen unter &lt;a href=&#34;http://twitter.com/account/settings&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://twitter.com/account/settings&#34;&gt;http://twitter.com/account/settings&lt;/a&gt;&lt;/a&gt; &amp;auml;ndern.&lt;/p&gt;
+
+&lt;h2 id=&#34;quellenangaben:7e38e8dcb6d4e31a36d8cb78795190da&#34;&gt;&lt;em&gt;Quellenangaben&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.e-recht24.de/muster-disclaimer.htm&#34; target=&#34;_blank&#34;&gt;Disclaimer&lt;/a&gt; von eRecht24, dem Portal zum Internetrecht von Rechtsanwalt S&amp;ouml;ren Siebert, &lt;a href=&#34;http://www.e-recht24.de/artikel/datenschutz/6590-facebook-like-button-datenschutz-disclaimer.html&#34; target=&#34;_blank&#34;&gt;Facebook-Disclaimer von eRecht24&lt;/a&gt;, &lt;a href=&#34;https://www.google.com/intl/de/policies/privacy/&#34; target=&#34;_blank&#34;&gt;Datenschutzerkl&amp;auml;rung f&amp;uuml;r Google Analytics&lt;/a&gt;, &lt;a href=&#34;http://twitter.com/privacy&#34; target=&#34;_blank&#34;&gt;Twitter Datenschutzerkl&amp;auml;rung&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The logo was created by &lt;a href=&#34;https://thenounproject.com/adamwhitcroft&#34;&gt;Adam Whitcroft&lt;/a&gt; and is licensed as Creative Commons – Attribution (CC BY 3.0).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>spf13-vim 3.0 release and new website</title>
+      <link>http://luftdaten.info:1313/about/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://luftdaten.info:1313/about/</guid>
+      <description>&lt;p&gt;Content of the file goes Here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://luftdaten.info:1313/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://luftdaten.info:1313/</guid>
+      <description>&lt;html&gt;
+&lt;head&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;p&gt;Test&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

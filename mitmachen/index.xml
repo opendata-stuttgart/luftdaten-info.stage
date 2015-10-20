@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mitmachens on Luftdaten.info</title>
+    <link>http://luftdaten.info:1313/mitmachen/</link>
+    <description>Recent content in Mitmachens on Luftdaten.info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://luftdaten.info:1313/mitmachen/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mitmachen</title>
+      <link>http://luftdaten.info:1313/mitmachen/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://luftdaten.info:1313/mitmachen/</guid>
+      <description>
+
+&lt;h1 id=&#34;termine:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Termine&lt;/h1&gt;
+
+&lt;p&gt;Wir treffen uns jeden zweiten Dienstag um 19:00 Uhr im Monat im shackspace,
+dem Stuttgarter Hackerspace, um an unserer Hardware zu basteln und diese
+weiterzuentwickeln.  Außerdem treffen wir uns jeden vierten Dienstag im Monat in
+der Stadtbibliothek am Mailänder Platz für die ganzen organisatorischen Aufgaben.&lt;/p&gt;
+
+&lt;p&gt;Interessierte sind herzlich eingeladen an unseren Treffen teilzunehmen und beim
+Fortschritt des Projekts mitzuhelfen.  Die aktuellen Termine gibt es bei
+&lt;a href=&#34;http://www.meetup.com/de/OK-Lab-Stuttgart-Meet-Up/&#34;&gt;meetup.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;code-for-stuttgart:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Code for Stuttgart&lt;/h1&gt;
+
+&lt;p&gt;Das Projekt „luftdaten.info“ wird im Rahmen des Open Knowledge Labs Stuttgart
+(OK Lab Stuttgart) entwickelt.  Das OK Lab Stuttgart ist Teil des Projekts
+Code for Germany und auf dessen Website mit einer
+&lt;a href=&#34;http://codefor.de/stuttgart/&#34;&gt;Unterseite&lt;/a&gt; vertreten.&lt;/p&gt;
+
+&lt;h1 id=&#34;newsletter:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Newsletter&lt;/h1&gt;
+
+&lt;p&gt;Wer sich lieber passiv informieren möchte, beipielsweise um bei Vollendung des
+Projekts die Patenschaft für einen Sensor zu übernehmen, kann sich in unseren
+Newsletter eintragen.&lt;/p&gt;
+
+&lt;h2 id=&#34;todo:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;TODO&lt;/h2&gt;
+
+&lt;div id=&#34;signupform&#34; class=&#34;sb-search clearfix&#34;&gt;
+  &lt;form action=&#34;http://codefor.us10.list-manage.com/subscribe/post?u=8c3a5431cac85218f1585f123&amp;amp;id=11f8850519&#34; method=&#34;post&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate clearfix&#34; target=&#34;_blank&#34; novalidate&gt;
+    &lt;input class=&#34;sb-search-input&#34; placeholder=&#34;Deine E-Mail Adresse&#34; type=&#34;email&#34; name=&#34;EMAIL&#34; value=&#34;&#34;&gt;
+    &lt;input type=&#34;text&#34; name=&#34;b_8c3a5431cac85218f1585f123_11f8850519&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;
+    &lt;input class=&#34;sb-search-submit&#34; value=&#34;&#34; type=&#34;submit&#34;&gt;
+    &lt;button class=&#34;formbutton&#34; type=&#34;submit&#34;&gt;&lt;span class=&#34;fa fa-envelope-o&#34;&gt;&lt;/span&gt;&lt;/button&gt;
+  &lt;/form&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

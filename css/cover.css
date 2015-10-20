@@ -1,0 +1,120 @@
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600,600italic,700,700italic,900,900italic");
+
+/*
+ * Base structure
+ */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  height: 100%;
+  background-color: #fff;
+  color: #000;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+/*
+ * Header
+ */
+.vbottom {
+    display: inline-block;
+    vertical-align: bottom;
+    float: none;
+}
+.nav-header {
+    padding: 0.5rem 0;
+}
+.nav-header a {
+  font-size: 1.5rem;
+  padding: .25rem 0; /* top-bottom right-left*/
+  font-weight: bold;
+  color: #000;
+  /*border-bottom: .25rem solid transparent;*/
+}
+
+.nav-header a + a {
+  margin-left: 1rem;
+}
+
+.nav-header a.active {
+  color: #000;
+  border-bottom: .25rem solid #1ABC9C;
+}
+
+@media (min-width: 48em) {
+  .nav-header {
+    float: right;
+  }
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    border-top: 1px solid #fff;
+    /*color: #fff;
+    background-color: #16A085;*/
+}
+
+.footer li {
+    padding: 0px 2px;
+    /*color: #fff;*/
+    color: #999;
+}
+
+.footer li:first-child {
+    padding-left: 0px;
+}
+
+.footer .row div {
+    margin: 20px 0 0 0;
+}
+
+.footer a {
+    /*color: #fff;*/
+    color: #16A085;
+}
+
+.jumbotron__color0{
+    background-color: #fff;
+    color: #333;
+}
+
+.jumbotron__color0 a {
+    color: #16A085;
+}
+
+.jumbotron__color1 {
+    background-color: #16A085;
+    color: #fff;
+}
+
+.jumbotron__color1 a {
+    color: #333;
+    opacity: 1.0;
+}
+
+.jumbotron__color2 {
+    background-color: #1ABC9C;
+    color: #fff;
+}
+
+.jumbotron__color2 a {
+    color: #fff;
+    opacity: 0.6;
+}
+
+.jumbotron__color3 {
+    background-color: #EEE;
+    color: #222;
+}
+
+.jumbotron__color3 a {
+    color: #16A085;
+}

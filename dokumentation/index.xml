@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dokumentations on Luftdaten.info</title>
+    <link>http://luftdaten.info:1313/dokumentation/</link>
+    <description>Recent content in Dokumentations on Luftdaten.info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://luftdaten.info:1313/dokumentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feinstaub</title>
+      <link>http://luftdaten.info:1313/dokumentation/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://luftdaten.info:1313/dokumentation/</guid>
+      <description>
+
+&lt;h1 id=&#34;erklärung:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Erklärung&lt;/h1&gt;
+
+&lt;h2 id=&#34;was-ist-feinstaub:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Was ist Feinstaub?&lt;/h2&gt;
+
+&lt;p&gt;Feinstaub, auf englisch &amp;ldquo;Particulate Matter&amp;rdquo; (PM) bezeichnet sehr kleine feste Teilchen in der Luft, die eine gewisse Zeit in der Atmosphäre verweilen. Die Staubpartikel werden in verschiedene Klassen eingeteilt. Feinstaub (PM10) bezeichnet Staubpartikel mit einem  Durchmesser von weniger als 10 µm (Mikrometer). Eine Teilmenge der PM10 sind die feineren Teilchen, mit einem Durchmesser, der kleiner ist als 2,5 µm (PM2.5). Dann gibt es noch die Fraktion der ultrafeinen Partikel von weniger als 0,1 Mikrometer (&amp;lt; 0,1µm).&lt;br&gt;
+&lt;a href=&#34;http://www.umweltbundesamt.de/service/uba-fragen/was-ist-feinstaub&#34; title=&#34;Was ist Feinstaub&#34;&gt;Quelle: Umweltbundesamt&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;woher-kommt-feinstaub:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Woher kommt Feinstaub?&lt;/h2&gt;
+
+&lt;p&gt;Der größte Teil wird durch menschliches Handeln erzeugt, z.B. aus Verbrennungsvorgängen (Kfz-Verkehr, Gebäudeheizung, Kamin) und Produktionsprozessen. In kleineren Mengen durch die Landwirtschaft, Schuttgüter, Feuerwerk &amp;amp; Zigaretten. Feinstaub wird nicht nur direkt emittiert (primäre Partikel) sondern bildet sich auch u.a. aus Schwefeldioxid, Stickstoffoxid und Ammoniak in der Atmosphäre (sekundäre Partikel).&lt;br&gt;
+&lt;a href=&#34;https://de.wikipedia.org/wiki/Feinstaub&#34;&gt;Quelle: Wikipedia&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;warum-ist-es-gefährlich:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Warum ist es gefährlich?&lt;/h2&gt;
+
+&lt;p&gt;Das Einatmen von Feinstaub sich negativ auf die menschliche Gesundheit auswirkt, ist &lt;a href=&#34;http://www.mlul.brandenburg.de/media_fast/4055/feinstaub.pdf&#34;&gt;erwiesen&lt;/a&gt;. Je kleiner die Partikel sind, desto tiefer gelangen sie in die Atemwege. Sehr feine Partikel können über die Lungenbläschen in die Blutbahn gelangen. Da Atmung und Blutkreislauf sehr eng miteinander verbunden sind können sich die Partikel so im Körper verteilen. Das kann zu folgenden Krankheiten führen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(chronischer) Husten&lt;/li&gt;
+&lt;li&gt;Schädigung des Atemtrakts&lt;/li&gt;
+&lt;li&gt;Bronchitis&lt;/li&gt;
+&lt;li&gt;Herz-Kreislauf-Probleme (Kardiovaskuläre Effekte)&lt;/li&gt;
+&lt;li&gt;Beeinträchtigung der Lungenfunktion&lt;/li&gt;
+&lt;li&gt;Lungenkrebs&lt;/li&gt;
+&lt;li&gt;Verkürzung der Lebenserwartung&lt;br&gt;
+&lt;a href=&#34;http://www.handelsblatt.com/technik/das-technologie-update/healthcare/infarkt-schlaganfall-atemnot-wie-feinstaub-die-gesundheit-schaedigt/9542368.html&#34;&gt;Quelle: Handelblatt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;unsere-mission:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Unsere Mission&lt;/h2&gt;
+
+&lt;p&gt;Wir wollen in Stuttgart in der Fläche messen. Am Ende sollen es 300 Messknoten sein. Damit können wir sowohl die Hintergrundbelastung als auch die Peaks sichtbar machen. Zusammen mit der &lt;a href=&#34;http://www.lubw.baden-wuerttemberg.de&#34;&gt;LUBW&lt;/a&gt; in Karlsruhe wollen wir einen Standard entwickeln, der den offiziellen Messstationen möglichst nahe kommt. Dadurch wollen wir einen fundierten empirischen Datensatz erhalten. Dabei geht es in erster Linie &lt;strong&gt;nicht&lt;/strong&gt; um 100%-ige Genauigkeit, sondern vielmehr um ein Bild der Gesamtsituation. Durch die Zusammenarbeit mit der LUBW wird aber eine möglichst große Annäherung an reale Messergebnisse angestrebt.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
