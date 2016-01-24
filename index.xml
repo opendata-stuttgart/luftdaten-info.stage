@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luftdaten.info</title>
-    <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/</link>
+    <link>https://opendata-stuttgart.github.io/luftdaten-info.stage/</link>
     <description>Recent content on Luftdaten.info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://opendata-stuttgart.github.io/luftdaten-info.stage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://opendata-stuttgart.github.io/luftdaten-info.stage/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Feinstaub</title>
-      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/dokumentation/</link>
+      <link>https://opendata-stuttgart.github.io/luftdaten-info.stage/dokumentation/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/dokumentation/</guid>
+      <guid>https://opendata-stuttgart.github.io/luftdaten-info.stage/dokumentation/</guid>
       <description>
 
-&lt;h1 id=&#34;erklärung:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Erklärung&lt;/h1&gt;
+&lt;h1 id=&#34;feinstaub:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Feinstaub&lt;/h1&gt;
 
 &lt;h2 id=&#34;was-ist-feinstaub:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Was ist Feinstaub?&lt;/h2&gt;
 
-&lt;p&gt;Feinstaub, auf englisch &amp;ldquo;Particulate Matter&amp;rdquo; (PM) bezeichnet sehr kleine feste Teilchen in der Luft, die eine gewisse Zeit in der Atmosphäre verweilen. Die Staubpartikel werden in verschiedene Klassen eingeteilt. Feinstaub (PM10) bezeichnet Staubpartikel mit einem  Durchmesser von weniger als 10 µm (Mikrometer). Eine Teilmenge der PM10 sind die feineren Teilchen, mit einem Durchmesser, der kleiner ist als 2,5 µm (PM2.5). Dann gibt es noch die Fraktion der ultrafeinen Partikel von weniger als 0,1 Mikrometer (&amp;lt; 0,1µm).&lt;br&gt;
+&lt;p&gt;Feinstaub, auf englisch „Particulate Matter“ (PM) bezeichnet sehr kleine feste Teilchen in der Luft, die eine gewisse Zeit in der Atmosphäre verweilen. Die Staubpartikel werden in verschiedene Klassen eingeteilt. Feinstaub (PM10) bezeichnet Staubpartikel mit einem  Durchmesser von weniger als 10 µm (Mikrometer). Eine Teilmenge der PM10 sind die feineren Teilchen, mit einem Durchmesser, der kleiner ist als 2,5 µm (PM2.5). Dann gibt es noch die Fraktion der ultrafeinen Partikel von weniger als 0,1 Mikrometer (&amp;lt; 0,1µm).&lt;br&gt;
 &lt;a href=&#34;http://www.umweltbundesamt.de/service/uba-fragen/was-ist-feinstaub&#34; title=&#34;Was ist Feinstaub&#34;&gt;Quelle: Umweltbundesamt&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;woher-kommt-feinstaub:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Woher kommt Feinstaub?&lt;/h2&gt;
@@ -44,18 +44,111 @@
 &lt;a href=&#34;http://www.handelsblatt.com/technik/das-technologie-update/healthcare/infarkt-schlaganfall-atemnot-wie-feinstaub-die-gesundheit-schaedigt/9542368.html&#34;&gt;Quelle: Handelblatt&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;unsere-mission:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Unsere Mission&lt;/h2&gt;
+&lt;h1 id=&#34;unsere-mission:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Unsere Mission&lt;/h1&gt;
 
 &lt;p&gt;Wir wollen in Stuttgart in der Fläche messen. Am Ende sollen es 300 Messknoten sein. Damit können wir sowohl die Hintergrundbelastung als auch die Peaks sichtbar machen. Zusammen mit der &lt;a href=&#34;http://www.lubw.baden-wuerttemberg.de&#34;&gt;LUBW&lt;/a&gt; in Karlsruhe wollen wir einen Standard entwickeln, der den offiziellen Messstationen möglichst nahe kommt. Dadurch wollen wir einen fundierten empirischen Datensatz erhalten. Dabei geht es in erster Linie &lt;strong&gt;nicht&lt;/strong&gt; um 100%-ige Genauigkeit, sondern vielmehr um ein Bild der Gesamtsituation. Durch die Zusammenarbeit mit der LUBW wird aber eine möglichst große Annäherung an reale Messergebnisse angestrebt.&lt;/p&gt;
+
+&lt;h1 id=&#34;hardware:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Hardware&lt;/h1&gt;
+
+&lt;h2 id=&#34;feinstaubsensor:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Feinstaubsensor&lt;/h2&gt;
+
+&lt;div class=&#34;media&#34;&gt;
+  &lt;a class=&#34;media-left&#34; href=&#34;#&#34;&gt;
+    &lt;img class=&#34;media-object img-thumbnail&#34; src=&#34;https://opendata-stuttgart.github.io/luftdaten-info.stage/photos/sensor.png&#34; alt=&#34;Generic placeholder image&#34; style=&#34;max-width:200px;&#34;&gt;
+  &lt;/a&gt;
+  &lt;div class=&#34;media-body&#34;&gt;
+    &lt;h4 class=&#34;media-heading&#34;&gt;Media heading&lt;/h4&gt;
+    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;temperatursensor:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Temperatursensor&lt;/h2&gt;
+
+&lt;div class=&#34;media&#34;&gt;
+  &lt;a class=&#34;media-left&#34; href=&#34;#&#34;&gt;
+    &lt;img class=&#34;media-object img-thumbnail&#34; src=&#34;https://opendata-stuttgart.github.io/luftdaten-info.stage/photos/dht22.png&#34; alt=&#34;Generic placeholder image&#34; style=&#34;max-width:200px;&#34;&gt;
+  &lt;/a&gt;
+  &lt;div class=&#34;media-body&#34;&gt;
+    &lt;h4 class=&#34;media-heading&#34;&gt;Media heading&lt;/h4&gt;
+    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;prozessor-wlan:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Prozessor &amp;amp; WLAN&lt;/h2&gt;
+
+&lt;div class=&#34;media&#34;&gt;
+  &lt;a class=&#34;media-left&#34; href=&#34;#&#34;&gt;
+    &lt;img class=&#34;media-object img-thumbnail&#34; src=&#34;https://opendata-stuttgart.github.io/luftdaten-info.stage/photos/esp-small.png&#34; alt=&#34;Generic placeholder image&#34; style=&#34;max-width:200px;&#34;&gt;
+  &lt;/a&gt;
+  &lt;div class=&#34;media-body&#34;&gt;
+    &lt;h4 class=&#34;media-heading&#34;&gt;Media heading&lt;/h4&gt;
+    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;aufbau:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Aufbau&lt;/h2&gt;
+
+&lt;div class=&#34;media&#34;&gt;
+  &lt;a class=&#34;media-left&#34; href=&#34;#&#34;&gt;
+    &lt;img class=&#34;media-object img-thumbnail&#34; src=&#34;https://opendata-stuttgart.github.io/luftdaten-info.stage/photos/esp+sensor.png&#34; alt=&#34;Generic placeholder image&#34; style=&#34;max-width:200px;&#34;&gt;
+  &lt;/a&gt;
+  &lt;div class=&#34;media-body&#34;&gt;
+    &lt;h4 class=&#34;media-heading&#34;&gt;Media heading&lt;/h4&gt;
+    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;anbindung:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Anbindung&lt;/h2&gt;
+
+&lt;div class=&#34;media&#34;&gt;
+  &lt;a class=&#34;media-left&#34; href=&#34;#&#34;&gt;
+    &lt;img class=&#34;media-object img-thumbnail&#34; src=&#34;https://opendata-stuttgart.github.io/luftdaten-info.stage/photos/sensor.png&#34; alt=&#34;Generic placeholder image&#34; style=&#34;max-width:200px;&#34;&gt;
+  &lt;/a&gt;
+  &lt;div class=&#34;media-body&#34;&gt;
+    &lt;h4 class=&#34;media-heading&#34;&gt;Media heading&lt;/h4&gt;
+    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://opendata-stuttgart.github.io/luftdaten-info.stage/impressum</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://opendata-stuttgart.github.io/luftdaten-info.stage/impressum</guid>
+      <description>
+
+&lt;h2 id=&#34;impressum:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Impressum&lt;/h2&gt;
+
+&lt;p&gt;Gem. &amp;sect; 5 Telemediengesetz (TMG)&lt;/p&gt;
+
+&lt;p&gt;B&amp;uuml;ro f&amp;uuml;r Gestalten/de&lt;br&gt;
+Nat&amp;uuml;rlich werben&lt;br&gt;
+Kleine K&amp;ouml;nigstr. 1&lt;br&gt;
+D-70178 Stuttgart&lt;br&gt;
+Germany&lt;/p&gt;
+
+&lt;p&gt;Umsatzsteuer-ID-Nr. gem. &amp;sect;27 a Umsatzsteuergesetz: DE252468935B&lt;/p&gt;
+
+&lt;p&gt;T +49 (0) 711 &amp;shy;72 23 71 - 72&lt;br&gt;
+F +49 (0) 711 &amp;shy;58 53 99 - 38&lt;br&gt;
+&lt;a href=&#34;mailto:info@buero-fuer-gestalten.de&#34;&gt;info@buero-fuer-gestalten.de&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Verantwortlich f&amp;uuml;r den Inhalt nach &amp;sect; 55 Abs. 2 RStV:&lt;br&gt;
+Dipl. Kommunikationsdesigner (FH) Jan A. Lutz&lt;br&gt;
+Anschrift wie oben&lt;br&gt;
+&lt;a href=&#34;mailto:jan.lutz@buero-fuer-gestalten.de&#34;&gt;jan.lutz@buero-fuer-gestalten.de&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mitmachen</title>
-      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/mitmachen/</link>
+      <link>https://opendata-stuttgart.github.io/luftdaten-info.stage/mitmachen/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/mitmachen/</guid>
+      <guid>https://opendata-stuttgart.github.io/luftdaten-info.stage/mitmachen/</guid>
       <description>
 
 &lt;h1 id=&#34;termine:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Termine&lt;/h1&gt;
@@ -96,42 +189,11 @@ Newsletter eintragen.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Impressum</title>
-      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/impressum</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/impressum</guid>
-      <description>
-
-&lt;h2 id=&#34;impressum:5515c6e0fd776984b9bc2d16dabbffb6&#34;&gt;Impressum&lt;/h2&gt;
-
-&lt;p&gt;Gem. &amp;sect; 5 Telemediengesetz (TMG)&lt;/p&gt;
-
-&lt;p&gt;B&amp;uuml;ro f&amp;uuml;r Gestalten/de&lt;br&gt;
-Nat&amp;uuml;rlich werben&lt;br&gt;
-Kleine K&amp;ouml;nigstr. 1&lt;br&gt;
-D-70178 Stuttgart&lt;br&gt;
-Germany&lt;/p&gt;
-
-&lt;p&gt;Umsatzsteuer-ID-Nr. gem. &amp;sect;27 a Umsatzsteuergesetz: DE252468935B&lt;/p&gt;
-
-&lt;p&gt;T +49 (0) 711 &amp;shy;72 23 71 - 72&lt;br&gt;
-F +49 (0) 711 &amp;shy;58 53 99 - 38&lt;br&gt;
-&lt;a href=&#34;mailto:info@buero-fuer-gestalten.de&#34;&gt;info@buero-fuer-gestalten.de&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Verantwortlich f&amp;uuml;r den Inhalt nach &amp;sect; 55 Abs. 2 RStV:&lt;br&gt;
-Dipl. Kommunikationsdesigner (FH) Jan A. Lutz&lt;br&gt;
-Anschrift wie oben&lt;br&gt;
-&lt;a href=&#34;mailto:jan.lutz@buero-fuer-gestalten.de&#34;&gt;jan.lutz@buero-fuer-gestalten.de&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Privacy Policy</title>
-      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/datenschutzerklaerung</link>
+      <link>https://opendata-stuttgart.github.io/luftdaten-info.stage/datenschutzerklaerung</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/datenschutzerklaerung</guid>
+      <guid>https://opendata-stuttgart.github.io/luftdaten-info.stage/datenschutzerklaerung</guid>
       <description>
 
 &lt;p&gt;Quellenangaben f&amp;uuml;r die verwendeten Bilder und Grafiken:&lt;br&gt;
@@ -195,20 +257,20 @@ Alle Quellenangaben finden Sie bei den jeweiligen Artikeln bzw. Bildern.&lt;/p&g
     
     <item>
       <title>spf13-vim 3.0 release and new website</title>
-      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/about/</link>
+      <link>https://opendata-stuttgart.github.io/luftdaten-info.stage/about/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/about/</guid>
+      <guid>https://opendata-stuttgart.github.io/luftdaten-info.stage/about/</guid>
       <description>&lt;p&gt;Content of the file goes Here&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://opendata-stuttgart.github.io/luftdaten-info.stage/</link>
+      <link>https://opendata-stuttgart.github.io/luftdaten-info.stage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://opendata-stuttgart.github.io/luftdaten-info.stage/</guid>
+      <guid>https://opendata-stuttgart.github.io/luftdaten-info.stage/</guid>
       <description>&lt;html&gt;
 &lt;head&gt;
 &lt;/head&gt;
